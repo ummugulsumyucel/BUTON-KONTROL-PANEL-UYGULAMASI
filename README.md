@@ -37,11 +37,9 @@ Butonları farklı şekillerde oluşturarak nasıl çalıştığını gözlemley
 
 
 **UYGULAMAYA AİT EKRAN GÖRÜNTÜLERİ**
-![image](https://github.com/ummugulsumyucel/BUTON-KONTROL-PANEL-UYGULAMASI/assets/123782291/a54919c4-6bb8-4d7b-804e-9683572b4abd)
-
-![image](https://github.com/ummugulsumyucel/BUTON-KONTROL-PANEL-UYGULAMASI/assets/123782291/5ba168cf-6cea-45e8-829f-59fe33bd5f69)
- 
+![image](https://github.com/ummugulsumyucel/BUTON-KONTROL-PANEL-UYGULAMASI/assets/123782291/a54919c4-6bb8-4d7b-804e-9683572b4abd) 
 ![image](https://github.com/ummugulsumyucel/BUTON-KONTROL-PANEL-UYGULAMASI/assets/123782291/399fdcae-39cb-4db4-b98c-cbb17e085837)
+![image](https://github.com/ummugulsumyucel/BUTON-KONTROL-PANEL-UYGULAMASI/assets/123782291/5ba168cf-6cea-45e8-829f-59fe33bd5f69)
 
 
 https://github.com/ummugulsumyucel/BUTON-KONTROL-PANEL-UYGULAMASI/assets/123782291/2a34b0f3-29e4-4fbf-9d6b-9dafda0cfa94
